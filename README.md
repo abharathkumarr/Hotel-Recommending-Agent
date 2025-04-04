@@ -2,16 +2,6 @@
 
 This project demonstrates an AI-powered hotel search and recommendation system. It leverages tools like LangChain, OpenAI, Chroma, Crew AI, and Gradio to build an intelligent system that automatically searches for hotels, reviews them, and suggests the best options based on user input. The system processes large hotel listing data, embeds them into a vector database, and retrieves relevant hotel information based on user queries.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Installation](#installation)
-- [Setup](#setup)
-- [How It Works](#how-it-works)
-- [Tools and Libraries](#tools-and-libraries)
-- [Usage](#usage)
-- [Future Improvements](#future-improvements)
-- [License](#license)
 
 ## Overview
 
