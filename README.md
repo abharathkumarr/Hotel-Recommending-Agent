@@ -13,3 +13,8 @@ This project uses a variety of AI technologies to provide personalized hotel rec
    ```bash
    git clone https://github.com/yourusername/hotel-recommending-ai-agent.git
    cd hotel-recommending-ai-agent
+
+#Install the required dependencies:
+pip install -r requirements.txt
+
+
